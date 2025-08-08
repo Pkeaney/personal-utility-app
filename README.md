@@ -1,0 +1,1 @@
+This side project is a simple application which will contain several different utility apps which I can run locally on my machine.  I plan to add things such as a calculator, notes app, calendar, timer/clock and an AI assistant.
